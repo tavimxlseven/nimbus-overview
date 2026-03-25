@@ -10,6 +10,7 @@ Nimbus allows users to:
 
 ## ⚙️ Technologies
 - Microsoft Azure
+- Google Cloud
 - Virtual Machines (CPU & GPU)
 - Infrastructure Automation
 - Backend Systems
